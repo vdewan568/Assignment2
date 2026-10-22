@@ -1,0 +1,41 @@
+[
+  {
+    "id": "first-family-court-hearing",
+    "title": "What to expect at a first family court hearing",
+    "category": "Family law",
+    "date": "2026-09-12",
+    "readTime": "4 min read",
+    "excerpt": "A plain-language walk-through of what happens, who speaks, and how to prepare so you feel ready on the day.",
+    "body": [
+      "This is placeholder content that shows how an article opens in the reading window. Replace it with the final text before publishing.",
+      "Each article is one entry in data/articles.json, so adding a new card never requires editing the HTML."
+    ],
+    "placeholder": true
+  },
+  {
+    "id": "tenant-rights-overview",
+    "title": "Your rights as a tenant: a short guide",
+    "category": "Tenancy law",
+    "date": "2026-08-20",
+    "readTime": "5 min read",
+    "excerpt": "Deposits, repairs and notice periods explained simply, with the questions worth asking before you sign a lease.",
+    "body": [
+      "This is placeholder content that shows how an article opens in the reading window. Replace it with the final text before publishing.",
+      "Copy one block of this file, change the fields, and a new card appears on the Articles page."
+    ],
+    "placeholder": true
+  },
+  {
+    "id": "why-mediation-works",
+    "title": "Why mediation can save time and money",
+    "category": "Mediation",
+    "date": "2026-07-03",
+    "readTime": "3 min read",
+    "excerpt": "When a settlement is better than a trial, and how a structured mediation session actually works.",
+    "body": [
+      "This is placeholder content that shows how an article opens in the reading window. Replace it with the final text before publishing.",
+      "Set \"placeholder\" to false once an article is real, and the placeholder label disappears."
+    ],
+    "placeholder": true
+  }
+]
